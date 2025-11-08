@@ -1,0 +1,4 @@
+__pycache__/
+.env
+
+hybrid_search_qdrant_storage/
